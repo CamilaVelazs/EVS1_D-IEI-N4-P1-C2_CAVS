@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'cavs_app1',
+    'cavs_app2',
 ]
 
 MIDDLEWARE = [
